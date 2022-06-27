@@ -1,5 +1,5 @@
 {
-    "name": "test/test_exe",
+    "name": "test_my_test_1/test_exe",
     "type": "library",
     "license": "MIT",
     "require": {}
