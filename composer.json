@@ -2,5 +2,8 @@
     "name": "test_my_test_1/test_exe",
     "type": "library",
     "license": "MIT",
-    "require": {}
+    "require": {},
+    "bin": [
+        "circulation.exe"
+    ]
 }
